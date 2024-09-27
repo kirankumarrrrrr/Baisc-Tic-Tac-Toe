@@ -1,0 +1,7 @@
+.App {
+  width: 100vw;         /* Use full viewport width */
+  height: 100vh;       /* Use full viewport height */
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;     /* Center vertically */
+}
